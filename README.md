@@ -43,10 +43,10 @@ The model's performance has been evaluated on a separate test dataset to ensure 
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/roc_curve.jpg" alt="Page" width="800" height="600"/></td>
+    <td><img src="charts/roc_curve.png" alt="Page" width="800" height="600"/></td>
   </tr>
     <tr>
-    <td><img src="screenshots/pr_curve.jpg" alt="Page" width="800" height="600"/></td>
+    <td><img src="charts/pr_curve.png" alt="Page" width="800" height="600"/></td>
   </tr>
 </table>
 
